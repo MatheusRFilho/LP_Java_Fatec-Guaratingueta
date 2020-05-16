@@ -1,0 +1,17 @@
+A = String
+
+B = byte,short,int
+
+C = double
+
+D = boolean
+
+E = short,int
+
+F = float
+
+G = char
+
+H = long
+
+//Matheus Rodrigo Queiroz de Lima Filho

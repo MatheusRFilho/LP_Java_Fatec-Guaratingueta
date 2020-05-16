@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - External Terminal",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - exer3",
+            "request": "launch",
+            "mainClass": "exer3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - exer25",
+            "request": "launch",
+            "mainClass": "exer25"
+        }
+    ]
+}
